@@ -1,0 +1,8 @@
+var randomAdjectives = ["Stupid", "Noisome", "Dirty", "Lazy"];
+var randomWords = ["Dunkey", "Monkey", "Ass", "Whore", "Bitch"];
+
+var randomAdjective = randomAdjectives[Math.floor(Math.random() * randomAdjectives.length)];
+var randomWord = randomWords[Math.floor(Math.random() * randomWords.length)];
+
+var randomPhrase = "You" + " are " + randomAdjective + " " + randomWord + "🖕";
+randomPhrase;
