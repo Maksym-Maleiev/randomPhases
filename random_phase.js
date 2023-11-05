@@ -12,3 +12,7 @@ randomPhrase;
 var randomBodyParts = ["Hair", "Legs", "Eyes", "Noise", "Face"];
 var randomAdjectives = ["Stupid", "Noisome", "Dirty", "Lazy", "Long"];
 var randomAnimals = ["Dunkey", "Monkey", "Pig", "Horse", "Cow"];
+
+var randomBodyPart = randomBodyParts[Math.floor(Math.random() * 5)];
+var randomAdjective = randomAdjectives[Math.floor(Math.random() * 5)];
+var randomAnimal = randomAnimals[Math.floor(Math.random() * 5)];
