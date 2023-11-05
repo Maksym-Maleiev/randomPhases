@@ -19,5 +19,5 @@ var randomAdjective = randomAdjectives[Math.floor(Math.random() * 5)];
 var randomAnimal = randomAnimals[Math.floor(Math.random() * 5)];
 var randomAnimalBodyPart = randomAnimalBodyParts[Math.floor(Math.random() * 5)];
 
-var randomPhrase = "Your " + randomBodyPart + " is more " + randomAdjective + " than a " + randomAnimal + "'s " + randomAnimalBodyPart;
+var randomPhrase = "Your " + randomBodyPart + " is more " + randomAdjective + " than a " + randomAnimal + "'s " + randomAnimalBodyPart + "🖕";
 randomPhrase;
