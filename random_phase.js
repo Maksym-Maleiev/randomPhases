@@ -9,3 +9,6 @@ var randomPhrase = "You" + " are " + randomAdjective + " " + randomWord + "🖕"
 randomPhrase;
 
 // #2: insult more subtly
+var bodyParts = ["Hair", "Legs", "Eyes", "Noise", "Face"];
+var randomAdjectives = ["Stupid", "Noisome", "Dirty", "Lazy", "Long"];
+var randomAnimals = ["Dunkey", "Monkey", "Pig", "Horse", "Cow"];
