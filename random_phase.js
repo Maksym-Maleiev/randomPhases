@@ -1,3 +1,4 @@
+// #1: New offensive phrases
 var randomAdjectives = ["Stupid", "Noisome", "Dirty", "Lazy"];
 var randomWords = ["Dunkey", "Monkey", "Ass", "Whore", "Bitch"];
 
