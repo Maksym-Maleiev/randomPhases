@@ -1,4 +1,4 @@
-// #1: New offensive phrases
+// #1: new offensive phrases
 var randomAdjectives = ["Stupid", "Noisome", "Dirty", "Lazy"];
 var randomWords = ["Dunkey", "Monkey", "Ass", "Whore", "Bitch"];
 
@@ -7,3 +7,5 @@ var randomWord = randomWords[Math.floor(Math.random() * randomWords.length)];
 
 var randomPhrase = "You" + " are " + randomAdjective + " " + randomWord + "🖕";
 randomPhrase;
+
+// #2: insult more subtly
