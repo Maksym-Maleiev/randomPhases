@@ -25,3 +25,5 @@ randomPhrase;
 // #3 use "+" or "join"?
 var randomPhrase = ["Your", randomBodyPart, "is", "more", randomAdjective, "than", "a", randomAnimal + "'s", randomAnimalBodyPart, "🖕"].join(" ");
 randomPhrase;
+
+// #4 connect the numbers
