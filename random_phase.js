@@ -31,3 +31,6 @@ var numbers = [3, 2, 1];
 var numberThree = [3, "is", "bigger"].join(" ");
 var numberTwo = ["than", 2, "is"].join(" ");
 var numberOne = ["bigger", "than", 1].join(" ");
+
+var numbers = [numberThree, numberTwo, numberOne].join(" ");
+numbers;
