@@ -27,3 +27,4 @@ var randomPhrase = ["Your", randomBodyPart, "is", "more", randomAdjective, "than
 randomPhrase;
 
 // #4 connect the numbers
+var numbers = [3, 2, 1].join(" ");
