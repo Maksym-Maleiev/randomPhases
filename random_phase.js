@@ -28,3 +28,5 @@ randomPhrase;
 
 // #4 connect the numbers
 var numbers = [3, 2, 1];
+var numberThree = [3, "is", "bigger"].join(" ");
+var numberTwo = ["than", 2, "is"].join(" ");
