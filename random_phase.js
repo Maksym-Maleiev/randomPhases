@@ -37,3 +37,13 @@ numbers;
 
 var numbers = [3, "is", "bigger", "than", 2, "is", "bigger", "than", 1].join(" ");
 numbers;
+
+// use "concat"
+
+var numbers = [3, 2, 1];
+var numberThree = [3, "is", "bigger"].join(" ");
+var numberTwo = ["than", 2, "is"].join(" ");
+var numberOne = ["bigger", "than", 1].join(" ");
+
+var numbers = numberThree.concat(numberTwo, numberOne);
+numbers;
