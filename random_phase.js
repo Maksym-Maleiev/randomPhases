@@ -21,3 +21,7 @@ var randomAnimalBodyPart = randomAnimalBodyParts[Math.floor(Math.random() * 5)];
 
 var randomPhrase = "Your " + randomBodyPart + " is more " + randomAdjective + " than a " + randomAnimal + "'s " + randomAnimalBodyPart + "🖕";
 randomPhrase;
+
+// #3 use "+" or "join"?
+var randomPhrase = ["Your", randomBodyPart, "is", "more", randomAdjective, "than", "a", randomAnimal, "'s", randomAnimalBodyPart, "🖕"].join(" ");
+randomPhrase;
